@@ -1,9 +1,4 @@
 
-# Project Title
-
-A brief description of what this project does and who it's for
-
-
 bonenamearray->count:85
 enum BoneEnum :__int8 {
 
